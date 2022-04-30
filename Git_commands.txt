@@ -1,5 +1,7 @@
-Install git bash from google for respective OS
+Install git bash from google for respective OS with default settings
 
+*Run the following commands to start with GIT 
+**However you can refer google or Youtube for the same 
 
 git init - this command is used to initialise git in your repository
 git add . or git add -A used to add the files on git hub
