@@ -1,0 +1,22 @@
+Install git bash from google for respective OS
+
+
+git init - this command is used to initialise git in your repository
+git add . or git add -A used to add the files on git hub
+git commit - commit your changes
+git add remote origin "URL of your repo"
+
+git push origin master - to push the changes on your repository.
+
+Main things to be done 
+
+Begin git with configuring the user bu running these commands
+
+1. git config --global user.name "Your name "
+2. git config --global user.email "Your email here"
+
+** Dont forget to configure the ssh keys to get the read/write access to the repo
+
+follow this link for it 
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh
+
