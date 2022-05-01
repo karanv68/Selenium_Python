@@ -20,7 +20,8 @@ I am assuming you know how to code in Python atleast Basic :)
 
 The best way to learn it is going through the documentation available online 
 I am adding links for your reference:
- Selenium Python : {https://selenium-python.readthedocs.io/}
+ Selenium Python : {https://selenium-python.readthedocs.io/} 
+ Official Selenium Docs : {https://www.selenium.dev/selenium/docs/api/py/index.html}
  Learn Python here : {https://www.learnpython.org}
  Chrome Extension : {https://sites.google.com/chromium.org/driver/downloads}
  Edge Extension : {https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/}

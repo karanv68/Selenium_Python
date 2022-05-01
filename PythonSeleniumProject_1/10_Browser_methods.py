@@ -1,0 +1,13 @@
+'''Command
+driver.get("https://training.rcvacademy.com")
+driver.current_url
+driver.back()
+driver.forward()
+driver.refresh()
+driver.title
+driver.maximize_window()
+driver.minimize_window()
+driver.fullscreen_window()
+driver.close()
+driver.quit()
+'''
