@@ -10,5 +10,8 @@ class DemoCheckBox():
         driver.find_element_by_id("//a[normalize-space()='Non Stop Flights']").click()
         time.sleep(3)
 
+        state = driver.find_element_by_id("//a[normalize-space()='Non Stop Flights']").is_selected()
+        print(state)
+        
 checkbox = DemoCheckBox()
 checkbox.locate_by_tag_demo()
